@@ -68,6 +68,9 @@ Port: 8080
 
 ## Fase 2: Access
 
+**Hydra ssh cracking**
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/115549820/195118742-5e190fe0-1da4-4d7e-a72b-eab9855d9b52.png">
 
 
 
