@@ -1,1 +1,2 @@
-# thm_basic_pentesting
+# TryHackMe | Basic Pentesting
+
