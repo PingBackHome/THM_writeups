@@ -30,7 +30,7 @@ Date: 12-10-2022\
 
 **Nikto Scan**
 
-<img width="1236" alt="image" src="https://user-images.githubusercontent.com/115549820/195345488-ee1fd010-59b3-41e9-90d7-cebd81ba7a62.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195345488-ee1fd010-59b3-41e9-90d7-cebd81ba7a62.png">
 
 **Dirbuster Scan**
 
@@ -38,11 +38,32 @@ Date: 12-10-2022\
 
 **Results Web Enumeration**
 
-<img width="1223" alt="image" src="https://user-images.githubusercontent.com/115549820/195345780-a306b3c8-67bf-47db-bedf-d8049eaeb6bf.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195345780-a306b3c8-67bf-47db-bedf-d8049eaeb6bf.png">
+
 
 <img width="522" alt="image" src="https://user-images.githubusercontent.com/115549820/195347190-3f75e059-f166-4962-8b4c-710fa1ff52a4.png">
 
 ## Fase 2: Getting Access
 
+**Hydra ssh cracking**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195347763-c71a26dd-286c-41ca-8551-fd1e7f30a115.png">
+
+**Login at webportal**
+
+>Username: R1ckRul3s\
+>Password: Wubbalubbadubdub
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195348182-b14ed1b3-27a1-4322-9a23-9eafa44d78e3.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195348386-8e83faa2-01a5-4740-a07a-baf81cc66441.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195348819-b25e638c-e53e-4768-8667-dcd99d6746e3.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195350051-5631c1e9-7e7f-4987-8caf-0e6e09fa6cde.png">
+
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/115549820/195350600-384b633d-355f-4241-8028-b0fc69420586.png">
+
+<img width="293" alt="image" src="https://user-images.githubusercontent.com/115549820/195352009-65f817f3-a6e7-4b8e-86e0-9c37c7040354.png">
 
 
