@@ -1,6 +1,9 @@
 # TryHackMe | Basic Pentesting
+
++++++++++++++++++++++++++++++++++++\
 IP: 10.10.62.222\
-Date: 11-10-2022
+Date: 11-10-2022\
++++++++++++++++++++++++++++++++++++
 
 ##  Fase 1: Recon
 
@@ -96,6 +99,39 @@ Port: 8080
 
 ## Fase 4: PrivEsc
 
-**SSH-key**
+**Obtain the SSH-key**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195324084-f82d54a5-6b4e-41e0-b447-0b0adb1b40bf.png">
+
+**Crack Privatekey**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195326613-39d4175f-be9b-496f-aac9-779d6e652c31.png">
+
+**Login with Kay**
+
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/115549820/195327482-b6aa8147-47aa-470b-b94d-854b8570fde3.png">
+
+<img width="548" alt="image" src="https://user-images.githubusercontent.com/115549820/195327671-9018ca54-98a7-4765-a8be-358c877328d8.png">
+
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/115549820/195327878-88d04843-3e2a-48f4-8125-4e3885c751d7.png">
 
 
+## TryHackMe Questions
+
+'What is the name of the hidden directory on the web server(enter name without /)?'\
+> Development
+
+'What is the username?'
+> Jan
+
+'What is the password?'
+> Armando
+
+'What service do you use to access the server(answer in abbreviation in all caps)?'
+> SSH
+
+'What is the name of the other user you found(all lower case)?'
+> Kay
+
+'What is the final password you obtain?'
+> heresareallystrongpasswordthatfollowsthepasswordpolicy$$
