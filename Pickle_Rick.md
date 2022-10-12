@@ -66,4 +66,14 @@ Date: 12-10-2022\
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/115549820/195352009-65f817f3-a6e7-4b8e-86e0-9c37c7040354.png">
 
+<img width="598" alt="image" src="https://user-images.githubusercontent.com/115549820/195357084-276f30f5-358e-48a0-a4c1-992d5d76054f.png">
+
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/115549820/195357551-eeff30e2-4ac0-4a7d-a956-498f7d848646.png">
+
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/115549820/195358537-33d87000-b5b9-4868-9626-0b42d61cca08.png">
+
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/115549820/195358605-fa7fff5a-16e2-406f-bbae-86af8696a77a.png">
+
+
+
 
