@@ -26,7 +26,7 @@ Date: 11-10-2022
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195095120-70cab2ab-2d28-4596-b8dd-217b4ec610b5.png">
 
 
-### Webserver enumeration
+### Webserver Enumeration
 
 **home pages**
 
@@ -66,11 +66,36 @@ Port: 8080
 
 
 
-## Fase 2: Access
+## Fase 2: Getting Access
 
 **Hydra ssh cracking**
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/115549820/195118742-5e190fe0-1da4-4d7e-a72b-eab9855d9b52.png">
 
+
+## Fase 3: Intern Enumeration
+
+
+**Uploading LinPeas.sh**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195304662-faa3b39d-b503-4a98-a9ea-72cd458ddb9a.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195304589-1e0c9e99-ebd1-487f-be81-defb5717ddd8.png">
+
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/115549820/195305477-004e9e17-6e41-4353-b574-b4bd38f74c0c.png">
+
+**Scanning Intern Results**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/195321109-105d1d91-b7aa-491b-99fb-c672b2c54bdd.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/115549820/195321833-7f57b127-b762-4e45-a4ab-770d9cdce0a5.png">
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/115549820/195322156-f6951bec-4964-4c01-a711-41414465bcb0.png">
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/115549820/195322614-c5d4cd99-1c07-4830-849d-802461d889df.png">
+
+## Fase 4: PrivEsc
+
+**SSH-key**
 
 
