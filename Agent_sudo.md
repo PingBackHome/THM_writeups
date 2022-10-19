@@ -63,3 +63,9 @@ Date: 19-10-2022\
 
 
 ## Fase 2: Getting Access
+
+***SSH Cracking w/ Hydra**
+
+
+
+
