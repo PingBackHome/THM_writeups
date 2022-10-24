@@ -1,8 +1,8 @@
-# TryHackMe | <name>
+# TryHackMe | {name}
 
 +++++++++++++++++++++++++++++++++++\
-IP: <IP>
-Date: <Date>
+IP: <IP>\
+Date: <Date>\
 +++++++++++++++++++++++++++++++++++
 
 ##  Fase 1: Recon
