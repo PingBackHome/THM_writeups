@@ -31,6 +31,7 @@ Date: 24-10-2022\
 
 **Dirbuster results**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/197553004-466298a7-d559-4ea2-8ee6-137dbe1ee667.png">
 
 
 **Steganography**
@@ -58,12 +59,10 @@ Date: 24-10-2022\
 
 Credentials
 > jake::987654321
-
-**Cracking Amy's SSH password w/ Hydra**
-
-
   
 ## Fase 3: Intern Enumeration
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/197550901-22766606-b844-47ab-a9e6-8f47d41a823d.png">
 
   
 ## Fase 4: PrivEsc
