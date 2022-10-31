@@ -64,7 +64,20 @@ Credentials
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/197550901-22766606-b844-47ab-a9e6-8f47d41a823d.png">
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/198969151-8ed66450-ef9f-48b6-ac3a-71f84f065a3e.png">
+
   
 ## Fase 4: PrivEsc
-  
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/198969508-6882cb78-c128-45fc-9df8-654d4d0fa8a5.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/198969287-877e1782-ecda-429b-9ca8-cf0182eb418b.png">
+
+
 ## TryHackMe Questions
+
+'User flag'
+> ee11cbb19052e40b07aac0ca060c23ee
+
+'Root flag'
+> 63a9f0ea7bb98050796b649e85481845
