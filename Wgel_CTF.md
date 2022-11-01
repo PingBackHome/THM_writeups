@@ -13,7 +13,7 @@ Date: 31-10-2022\
 
 **Open Ports**
 
-22 - SSH - OpenSSH 7.2p2
+22 - SSH - OpenSSH 7.2p2\
 80 - Webserver - Apache 2.4.18
 
 ### Webserver Enumeration
