@@ -58,6 +58,13 @@ Date: 01-11-2022\
 
 ## Fase 2: Getting Access
 
+**Search for Exploit**
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/115549820/199952959-6c7df5bf-fb95-4420-9652-cae131c4a113.png">
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/115549820/199953053-369bda26-9b56-4735-aee6-08354702cbd1.png">
+
+
   
 ## Fase 3: Intern Enumeration
 
