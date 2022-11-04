@@ -41,7 +41,11 @@ Date: 01-11-2022\
 
 **Wpscan**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/199950233-4b5cffd8-7300-499b-8d30-05d80d427ad3.png">
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/199950341-14bf3095-15ec-4a40-8ee8-000d71a18cfb.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/199950417-ba9575e2-e722-402c-a242-1843e00ca643.png">
 
 
 ## Fase 2: Getting Access
