@@ -1,7 +1,7 @@
 # TryHackMe | All in one
 
 +++++++++++++++++++++++++++++++++++\
-IP: 10.10.140.155\
+IP: 10.10.211.23\
 Date: 01-11-2022\
 +++++++++++++++++++++++++++++++++++
 
@@ -16,6 +16,10 @@ Date: 01-11-2022\
 21 - FTP - vsftpd 3.0.3\
 22 - SSH - OpenSSH 7.6p1\
 80 - Webserver - Apache 2.4.29
+
+### FTP Enumeration
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/115549820/199951387-fe7db85f-ebab-4449-ad98-3c3648d1dcb1.png">
 
 ### Webserver Enumeration
 
