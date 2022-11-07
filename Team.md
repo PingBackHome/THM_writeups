@@ -59,6 +59,9 @@ Date: 07-11-2022\
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200303527-c253e9ef-97a0-4f26-84b4-5e577c721f36.png">
 
+Creds for FTP:
+> ftpuser::T3@m$h@r3
+
 
 
 ## Fase 2: Getting Access
