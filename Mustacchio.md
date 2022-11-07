@@ -32,7 +32,7 @@ Date: 07-11-2022\
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200343515-e80d084c-b2da-4e90-a808-fae17aad5514.png">
 
-<img width="45005" alt="image" src="https://user-images.githubusercontent.com/115549820/200343857-fa496484-0e0f-4f6c-8c85-fbb0bc8a0823.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200343857-fa496484-0e0f-4f6c-8c85-fbb0bc8a0823.png">
 
 Possible cred:
 > admin::bulldog19
