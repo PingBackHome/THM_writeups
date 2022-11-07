@@ -100,10 +100,31 @@ Possible usernames:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200319996-a957b3fb-bd51-4020-8454-0237ef135e7a.png">
 
+**Copy id_rsa privkey**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200320402-c20501d7-e33b-478c-b221-e2366c547caf.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200320458-75483b04-1d73-4859-baac-335abeb1d485.png">
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/115549820/200320577-1b409729-6e15-480b-81a5-5a63bc76ee0e.png">
+
 ## Fase 2: Getting Access
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/115549820/200324660-c7e072d8-408d-42ff-b3c1-c56bf834ff1a.png">
   
 ## Fase 3: Intern Enumeration
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/115549820/200325459-3af30c7f-0ec9-4af2-a2d0-ef90d6a6023e.png">
+
+**Uploading linpeas.sh**
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/115549820/200325657-83670b61-87cb-4b7c-88a0-10562d50689c.png">
+
+<img width="992" alt="image" src="https://user-images.githubusercontent.com/115549820/200325840-0934a17e-c678-4ef9-bc2a-4356f8c9d949.png">
+
+**Output linpeas.sh***
+
+
 
   
 ## Fase 4: PrivEsc
