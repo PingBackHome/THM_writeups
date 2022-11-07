@@ -122,11 +122,36 @@ Possible usernames:
 
 <img width="992" alt="image" src="https://user-images.githubusercontent.com/115549820/200325840-0934a17e-c678-4ef9-bc2a-4356f8c9d949.png">
 
-**Output linpeas.sh***
+***Output linpeas.sh***
 
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/115549820/200327613-21ca7ffc-fa3c-4d52-8686-3ca8b3e54bce.png">
 
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/115549820/200327887-cfbb4feb-54b9-4796-bf1e-090625f0e3b6.png">
 
   
 ## Fase 4: PrivEsc
-  
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200329397-04694bbc-848f-4833-9243-f08f674144b3.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200330694-9857ca58-0c9b-4fb8-8dcf-ccac0ae6ba34.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200330755-7880127b-a94d-4aa8-a5d6-1af9a9728e27.png">
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/115549820/200332697-aded4394-2068-41eb-8f8e-3b44d8d785de.png">
+
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/115549820/200332840-9eaea07d-26c3-44cc-a8f6-137409791a9e.png">
+
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/115549820/200332944-8e2594d3-883b-4694-a137-a5f45a19af88.png">
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/115549820/200333066-276b131f-0de0-46b7-a48e-98a061b3509c.png">
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/115549820/200333216-220643fd-f6ae-45f8-9ab5-39c5bb7ca903.png">
+
+
 ## TryHackMe Questions
+
+user.txt
+> THM{6Y0TXHz7c2d}
+
+root.txt
+> THM{fhqbznavfonq}
