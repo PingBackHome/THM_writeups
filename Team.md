@@ -25,9 +25,20 @@ Date: 07-11-2022\
 
 **Nikto Output**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200297223-cc85ec44-fd0f-475e-bb9c-5d8726192b78.png">
 
 
 **Dirbuster Output**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200297555-3557adf2-a714-4e96-98b5-d1500c430e95.png">
+
+**Add to host file**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200299255-cad28f1d-9ebf-4e36-86ae-918c23a78d0e.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200299472-993a43fe-039d-401b-af74-4a8b7d13cf56.png">
+
+**New try Dirbuster**
 
 
 
