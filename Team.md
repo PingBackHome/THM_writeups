@@ -36,10 +36,22 @@ Date: 07-11-2022\
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200299255-cad28f1d-9ebf-4e36-86ae-918c23a78d0e.png">
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200299472-993a43fe-039d-401b-af74-4a8b7d13cf56.png">
 
 **New try Dirbuster**
 
+<img width="756" alt="image" src="https://user-images.githubusercontent.com/115549820/200301377-7459a183-23c1-4465-beda-0f27ee68e289.png">
+
+***Homepage***
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200299472-993a43fe-039d-401b-af74-4a8b7d13cf56.png">
+
+***/robots.txt***
+
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/115549820/200301725-498ae50a-f0bc-4c1c-9064-08e212bb81e7.png">
+
+***/scripts/scripts.txt***
+
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/115549820/200302223-759be9a9-f674-4705-99f7-cd421ae7d0c5.png">
 
 
 ## Fase 2: Getting Access
