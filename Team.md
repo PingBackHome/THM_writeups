@@ -62,7 +62,43 @@ Date: 07-11-2022\
 Creds for FTP:
 > ftpuser::T3@m$h@r3
 
+**FTP login**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200311912-470de99d-d4ce-4cf8-8550-75ddff8eeef0.png">
+
+***FTP: workshare/New_site.txt***
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200312109-15a20898-83c0-4e04-8732-73ea3fc13725.png">
+
+Possible usernames:
+> gyles::??
+> dale::??
+
+**Adding .dev to host**
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/115549820/200313031-4210a9d9-3a60-4fa2-b6e2-9f5add3767d5.png">
+
+**dev.team.thm**
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/115549820/200313199-98454362-2de5-4d15-accb-654f99bb66c5.png">
+
+***/../../../etc/passwd***
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200313792-72a8bc7a-4b9e-44db-b3cd-c72a88429234.png">
+
+***/../../../home/dale/user.txt***
+
+<img width="833" alt="image" src="https://user-images.githubusercontent.com/115549820/200314417-cb9f9141-82ee-4e7b-8b8d-bf42782432b3.png">
+
+**Searching for interesting LF-locations w/ Burpsuite**
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/115549820/200319621-1bc6e0b0-831f-4957-9875-98b7d3c6a726.png">
+
+***../etc/ssh/sshd_config***
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200319940-155715f5-4665-400b-87e7-b229f14addce.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/200319996-a957b3fb-bd51-4020-8454-0237ef135e7a.png">
 
 ## Fase 2: Getting Access
 
