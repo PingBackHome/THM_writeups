@@ -53,7 +53,7 @@ Possible creds
 
 ***Subrion version***
 
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/115549820/201339715-8fe2a18c-9a6e-44ca-89d1-83ef17158b11.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/115549820/201339715-8fe2a18c-9a6e-44ca-89d1-83ef17158b11.png">
 
 
 ### SMB Enumeration
@@ -74,9 +74,21 @@ Credential for subrion
 
 **Possible exploitation**
 
-> Wordpress 5.7.2
+> Wordpress 5.7.2\
 > Subrion 4.2.1
-> 
+
+**Subrion exploitation**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201340172-7d8ce0e9-5565-498c-98ee-21e047372261.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201340521-ce6cac20-5b75-4def-8765-a494122ddc9a.png">
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/115549820/201340700-9d4057ad-409f-4cbb-b1f2-31c2b728c088.png">
+
+***Getting shell***
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/115549820/201341682-2664730e-ba65-4816-9e8f-ab67d2186cc1.png">
+
   
 ## Fase 3: Intern Enumeration
 
