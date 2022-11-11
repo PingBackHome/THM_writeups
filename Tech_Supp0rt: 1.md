@@ -45,7 +45,7 @@ Possible creds
 
 ***wpscan passwordspray***
 
-
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/115549820/201345891-9a8455b3-50ba-44e4-ad38-50b9b59735a8.png">
 
 **/subrion/panel**
 
@@ -89,10 +89,37 @@ Credential for subrion
 
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/115549820/201341682-2664730e-ba65-4816-9e8f-ab67d2186cc1.png">
 
-  
 ## Fase 3: Intern Enumeration
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201342763-e4579429-b120-4795-a793-28e8553ec5ff.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201342828-bdd1af62-83fd-4b26-a227-37a4d689af18.png">
+
+MySQL/Wordpress creds
+> support::ImAScammerLOL!123!
+
+**Clean shell in subrion**
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201345733-f5712d19-6733-4b1a-89e9-986cd060c957.png">
+
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/115549820/201346443-32b80c04-1e03-4e38-9baa-6f5f9e42e356.png">
+
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/115549820/201346618-7c601b53-036a-42f6-b7ac-c93eb742b795.png">
+
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/115549820/201347509-e916c7d6-5376-4862-b57f-7dbffd71b643.png">
+
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/115549820/201347660-fbb03a54-0113-4523-b3d6-2c2a3f29d29f.png">
 
   
 ## Fase 4: PrivEsc
-  
+
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/115549820/201347787-0d96d6f6-4f98-40ec-82a3-59642b4761dd.png">
+
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/115549820/201348099-9295968e-6c10-4376-a822-04ec447e483a.png">
+
+
 ## TryHackMe Questions
+
+
+What is the root.txt flag?
+> 851b8233a8c09400ec30651bd1529bf1ed02790b
