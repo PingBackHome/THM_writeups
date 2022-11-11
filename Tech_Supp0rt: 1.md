@@ -45,11 +45,11 @@ Possible creds
 
 ***wpscan passwordspray***
 
-<img width="776" alt="image" src="https://user-images.githubusercontent.com/115549820/201345891-9a8455b3-50ba-44e4-ad38-50b9b59735a8.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201345891-9a8455b3-50ba-44e4-ad38-50b9b59735a8.png">
 
 **/subrion/panel**
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201338885-a684ed57-16db-4d5e-854d-cbed843f8e16.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201348497-ed6bf2d2-fa9c-4728-bbd7-e37b67242b13.png">
 
 ***Subrion version***
 
@@ -102,20 +102,20 @@ MySQL/Wordpress creds
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201345733-f5712d19-6733-4b1a-89e9-986cd060c957.png">
 
-<img width="680" alt="image" src="https://user-images.githubusercontent.com/115549820/201346443-32b80c04-1e03-4e38-9baa-6f5f9e42e356.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/115549820/201346443-32b80c04-1e03-4e38-9baa-6f5f9e42e356.png">
 
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/115549820/201346618-7c601b53-036a-42f6-b7ac-c93eb742b795.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/115549820/201346618-7c601b53-036a-42f6-b7ac-c93eb742b795.png">
 
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/115549820/201347509-e916c7d6-5376-4862-b57f-7dbffd71b643.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/115549820/201347509-e916c7d6-5376-4862-b57f-7dbffd71b643.png">
 
-<img width="570" alt="image" src="https://user-images.githubusercontent.com/115549820/201347660-fbb03a54-0113-4523-b3d6-2c2a3f29d29f.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/115549820/201347660-fbb03a54-0113-4523-b3d6-2c2a3f29d29f.png">
 
   
 ## Fase 4: PrivEsc
 
-<img width="866" alt="image" src="https://user-images.githubusercontent.com/115549820/201347787-0d96d6f6-4f98-40ec-82a3-59642b4761dd.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/115549820/201347787-0d96d6f6-4f98-40ec-82a3-59642b4761dd.png">
 
-<img width="580" alt="image" src="https://user-images.githubusercontent.com/115549820/201348099-9295968e-6c10-4376-a822-04ec447e483a.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201348099-9295968e-6c10-4376-a822-04ec447e483a.png">
 
 
 ## TryHackMe Questions
