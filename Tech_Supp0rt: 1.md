@@ -40,9 +40,20 @@ Date: 11-11-2022\
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201321582-a0d87b9c-cc83-463d-89db-e04ced23c1c5.png">
 
+Possible creds
+> support::??
+
+***wpscan passwordspray***
+
+
+
 **/subrion/panel**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201338885-a684ed57-16db-4d5e-854d-cbed843f8e16.png">
 
+***Subrion version***
+
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/115549820/201339715-8fe2a18c-9a6e-44ca-89d1-83ef17158b11.png">
 
 
 ### SMB Enumeration
@@ -55,9 +66,17 @@ Date: 11-11-2022\
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/115549820/201318407-1a2ff939-fee8-4f05-a3fa-d0e8ff86e105.png">
 
+Credential for subrion
+> admin::Scam2021
+
 
 ## Fase 2: Getting Access
 
+**Possible exploitation**
+
+> Wordpress 5.7.2
+> Subrion 4.2.1
+> 
   
 ## Fase 3: Intern Enumeration
 
