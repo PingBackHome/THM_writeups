@@ -1,4 +1,4 @@
-# TryHackMe | {name}
+# TryHackMe | Brooklyn 99
 
 +++++++++++++++++++++++++++++++++++\
 IP: 10.10.96.181\
