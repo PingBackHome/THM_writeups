@@ -1,5 +1,5 @@
 
-# TryHackMe | Agent Sudo
+# TryHackMe | LazyAdmin
 
 +++++++++++++++++++++++++++++++++++\
 IP: 10.10.47.71\
