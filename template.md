@@ -1,5 +1,10 @@
-# TryHackMe | {name}
+---
+layout: post
+title: TryHackMe | Blog
+categories: TryHackMe
+---
 
+# TryHackMe | {name}
 +++++++++++++++++++++++++++++++++++\
 IP: <IP>\
 Date: <Date>\
